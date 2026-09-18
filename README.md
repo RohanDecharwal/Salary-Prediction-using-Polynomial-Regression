@@ -80,8 +80,8 @@ This project demonstrates the effectiveness of Polynomial Regression for predict
 ## 📁 Repository Structure
 
 ```
-Assignment-3/
-│── Assignment_3.ipynb
+Salary Prediction using Polynomial Regression/
+│── Salary Prediction using Polynomial Regression.ipynb
 │── README.md
 ```
 
